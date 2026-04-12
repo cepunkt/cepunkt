@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Andi
 
-<!--
-**cepunkt/cepunkt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Curiosity to poke systems with a stick.
 
-Here are some ideas to get you started:
+SRE with three decades of systematic stick-poking. These days pointed at
+autoregressive transformer mechanics — what these systems actually do,
+not what the marketing says.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Work
+
+- [mlpoking](https://github.com/cepunkt/mlpoking) — Elimination kernel for understanding LLM behavior
+- [mechanism-theory](https://github.com/cepunkt/mechanism-theory) — Universal elimination framework (CC0)
+- [mlcosplay](https://github.com/cepunkt/mlcosplay) — Collaboration frameworks and persona experiments
+- [ccaudit-public](https://github.com/cepunkt/ccaudit-public) — Independent security audit of Claude Code
+
+## Methodology
+
+Configure. Test. Observe. Document. Iterate.
+
+Observation over theory. Theory over speculation.
+
+---
+
+*"Hypotheses non fingo."* — Newton
